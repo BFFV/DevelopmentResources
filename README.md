@@ -70,12 +70,16 @@
 - Docker development & production: https://medium.com/@patriciolpezjuri/empezando-con-docker-86f388316551
 - Docker with VSCode: https://code.visualstudio.com/docs/remote/containers
 
+### DevOps
+- Presentation: https://drive.google.com/file/d/103Ia0aQyhTgBsSzuNzu8wTdPm0th7qjs/view
+
 ## General Software Development
 
 ### Software Development Basics
 - Presentation: https://drive.google.com/file/d/1bNP8cDWR7lXnvfSKVc94yYQP7pHnhcnd/view
 - Report Templates: https://drive.google.com/drive/u/1/folders/1bP6lCqUZBA0Gpif5c-_V1frO7-SDqXW7
 - More docs: https://drive.google.com/open?id=0B3hWXG5HXlXrQlFyN2lMRGFhRE0&authuser=1, https://drive.google.com/drive/u/1/folders/0B3hWXG5HXlXrczNHR05PTVRIZGc
+- Security: https://drive.google.com/file/d/11dNM0_POSX0KGb8k2HtJKwybBfk3vyW3/view
 
 ## Git & Github
 - http://goo.gl/2GUur1
