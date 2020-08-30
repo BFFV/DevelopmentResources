@@ -73,6 +73,14 @@
 ### DevOps
 - Presentation: https://drive.google.com/file/d/103Ia0aQyhTgBsSzuNzu8wTdPm0th7qjs/view
 
+### SonarQube
+- Main: https://www.sonarqube.org/
+- Install SonarQube get started (No docker): https://docs.sonarqube.org/latest/setup/get-started-2-minutes/
+- SonarQube with Docker: https://aprenderdevops.com/instalacion-de-sonarqube-con-docker/
+- Install SonarQube Scanners: https://docs.sonarqube.org/latest/analysis/overview/
+- SonarQube video tutorial: https://www.youtube.com/watch?v=Ur_qsRPfi3E&t
+- SonarQube example: https://www.youtube.com/watch?v=pufcNkJPvxw
+
 ## General Software Development
 
 ### Software Development Basics
