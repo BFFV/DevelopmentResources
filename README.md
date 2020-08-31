@@ -4,6 +4,7 @@
 
 ### Web Development Basics
 - Presentation: https://drive.google.com/file/d/1GMFTWA7HhTi4dVgniAKBkN8EPfjkFmD-/view
+- Video: https://drive.google.com/file/d/1pokILDYHCMWAaVOEj0DQNfdu2xX7KWAM/view
 - Code: https://drive.google.com/file/d/1s9TsN9vTEd4S8i2JfyeBjYjsZoS4uNvr/view
 
 ### Jetpack: React + Redux + GraphQL
@@ -23,12 +24,14 @@
 - GraphQL - https://www.youtube.com/watch?v=ed8SzALpx1Q
 
 ### Testing
-- https://drive.google.com/file/d/11iOQAD7ErNE4paqw2GUnqnNP5LtWxlKz/view
+- Presentation: https://drive.google.com/file/d/11iOQAD7ErNE4paqw2GUnqnNP5LtWxlKz/view
+- Video: https://drive.google.com/file/d/1bE7xBv9m6M85FTZ_phGHoHKKsUINyEWP/view
 
 ## Mobile Development
 
 ### Mobile Development Basics
 - Presentation: https://drive.google.com/file/d/1asd9q6cm00Bo7p_xaYeGwswbJidryZNH/view
+- Video: https://drive.google.com/file/d/1wxP-GKmRIMbwyk0jPKtOwMZvM8Hajk3S/view
 - Full-Stack Web Development with React Specialization: https://www.coursera.org/specializations/full-stack-react
 - Multiplatform Mobile App Development with React Native: https://www.coursera.org/learn/react-native
 
@@ -72,6 +75,7 @@
 
 ### DevOps
 - Presentation: https://drive.google.com/file/d/103Ia0aQyhTgBsSzuNzu8wTdPm0th7qjs/view
+- Video: https://drive.google.com/file/d/1C2hd4uxzq1ciPaBnClhox9jnbGluvZMG/view
 
 ### SonarQube
 - Main: https://www.sonarqube.org/
@@ -85,9 +89,11 @@
 
 ### Software Development Basics
 - Presentation: https://drive.google.com/file/d/1bNP8cDWR7lXnvfSKVc94yYQP7pHnhcnd/view
+- Video: https://drive.google.com/file/d/1bN3l-jBUeuU1l7wZgPuG2jLu-MSE07yq/view
 - Report Templates: https://drive.google.com/drive/u/1/folders/1bP6lCqUZBA0Gpif5c-_V1frO7-SDqXW7
 - More docs: https://drive.google.com/open?id=0B3hWXG5HXlXrQlFyN2lMRGFhRE0&authuser=1, https://drive.google.com/drive/u/1/folders/0B3hWXG5HXlXrczNHR05PTVRIZGc
 - Security: https://drive.google.com/file/d/11dNM0_POSX0KGb8k2HtJKwybBfk3vyW3/view
+- Security Video: https://drive.google.com/file/d/1jTaNmEpTiLuwEBUmvIbG4ipxj4q-9qvI/view
 
 ## Git & Github
 - http://goo.gl/2GUur1
