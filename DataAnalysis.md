@@ -6,5 +6,8 @@
 - PSQL + Django Tutorial: https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django
 
 ## Sentiment Analysis
-- P1: https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
-- P2: https://towardsdatascience.com/sentiment-analysis-with-python-part-2-4f71e7bde59a
+- Basic Tutorial 1: https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
+- Basic Tutorial 2: https://towardsdatascience.com/sentiment-analysis-with-python-part-2-4f71e7bde59a
+- Senti-Py: https://github.com/aylliote/senti-py
+- Sentiment-Spanish: https://github.com/sentiment-analysis-spanish/sentiment-spanish
+- More Resources: https://datascience.stackexchange.com/questions/6691/sentiment-analysis-model-for-spanish
