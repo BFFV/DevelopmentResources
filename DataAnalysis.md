@@ -1,7 +1,7 @@
 # Data Analysis
 
 ## PostgreSQL + Django
-- PSQL Tutorial: https://www.youtube.com/playlist?list=PLnHuzXvoUKPySlYto7pCoVMnuowigN2N1
+- PSQL Backup/Restore: https://www.postgresqltutorial.com/postgresql-restore-database/
 - PSQL + Django: https://www.youtube.com/watch?v=5EDuk1QxQVY&ab_channel=Developer.pe
 - PSQL + Django Tutorial: https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django
 
