@@ -4,7 +4,6 @@
 - PSQL Backup/Restore: https://www.postgresqltutorial.com/postgresql-restore-database/
 - PSQL + Django: https://www.youtube.com/watch?v=5EDuk1QxQVY&ab_channel=Developer.pe
 - PSQL + Django Tutorial: https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django
-- Django REST API: https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
 
 ## Sentiment Analysis
 - Basic Tutorial 1: https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
