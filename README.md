@@ -6,6 +6,7 @@
 - Presentation: https://drive.google.com/file/d/1GMFTWA7HhTi4dVgniAKBkN8EPfjkFmD-/view
 - Video: https://drive.google.com/file/d/1pokILDYHCMWAaVOEj0DQNfdu2xX7KWAM/view
 - Code: https://drive.google.com/file/d/1s9TsN9vTEd4S8i2JfyeBjYjsZoS4uNvr/view
+- Full Stack Tutorial: https://www.freecodecamp.org/news/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286/
 
 ### Jetpack: React + Redux + GraphQL
 - Tutorial para React.js: https://egghead.io/courses/react-fundamentals
